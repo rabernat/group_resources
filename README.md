@@ -12,7 +12,7 @@ This is the first draft of an evolving guide on how to participate in Ryan Abern
 
 These principles are explained in more specific detail below. 
 
-## Code of Conduct
+## Respect Others: Code of Conduct
 
 All Columbia university employees and students must understand and comply with the University's
 policies and procedures regarding harassment and discrimination
@@ -30,7 +30,11 @@ Sexual language and imagery is not appropriate in any professional context, incl
 conferences, online communications, and work-related social events. Anyone violating these rules may be temporarily suspended
 or permanetly expelled from the group, at the discretion of the group leader Ryan Abernathey. 
 
+## Work Hard: Roles and Expectations
+
+Working hard means applying consistent, focused effort to your research in a serious, professional way.
+It means working with a sense of urgency appropriate to the intellectual challenges posed by the Earth system.
+It *does not* mean putting in unreasonable, unsustainable hours, leading to unhappiness / burn-out.
 
 
-
-
+ 
