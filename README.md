@@ -186,6 +186,8 @@ help define what it means to be "at work":
 
 ## Communication
 
+### Channels
+
 Our group uses several channels of communication. You are expected to participate
 in all of them.
 
@@ -194,3 +196,7 @@ in all of them.
 2. **Slack** is our preferred mode of communication within the group. It's a
    way to discuss things more interactively and informally than email.
 3. **Github** is where we store and discuss all things software-related.
+
+### Group Meeting
+
+...
