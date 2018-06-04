@@ -1,6 +1,9 @@
 # How to Science
 
 This is the first draft of an evolving guide on how to participate in Ryan Abernathey's research group.
+This document borrows heavily from similar efforts by colleagues such as
+[Katy Huff](http://arfc.npre.illinois.edu/manual)
+and [Baylor Fox Kemper](http://www.geo.brown.edu/research/Fox-Kemper/pubs/)
 
 ## Core Principles
 1. **Respect others**: abide by the code of conduct.
@@ -90,6 +93,10 @@ demands on his time, which must be managed carefully.
 
 ### Postdoc Responsibilities
 
+Postdocs are relatively free of responsibilities and have the experience to function
+independently. (That's why everyone else is jealous of postdocs.) On the other hand,
+they have to face the uncertainty of the job market...
+
 1. **Produce Research**: As a postdoc, you are a research machine. Your number-one job
    is to crank out new scientific discoveries!
 1. **Write Papers**: You are expected to take the lead on writing the papers that
@@ -110,11 +117,13 @@ demands on his time, which must be managed carefully.
 1. **Plan for the Future**: A postdoc is a temporary position; yours well end before you
    know it. Think about your career goals and make a concrete plan for obtaining
    your next job; we will do everything we can to support you.
+1. **Communicate with the Group** and attend group meetings. (See Communication section below.)
 
 
 ### Grad Student Responsibilities
 
-Students have a complex range of responsibilities to manage.
+Grad students have a complex range of responsibilities to manage. Learning to deal with
+it all is part of the journey of graduate school.
 
 1. **Stay in Good Standing**: it is YOUR responsibility to understand all of the formal
    requirements of the graduate school and the department, and to stay ahead of all
@@ -140,3 +149,48 @@ Students have a complex range of responsibilities to manage.
    long-term plan for your research, with clearly defined milestones and goals.
    Each week, you should have a short term plan for exactly what to work on to move
    towards those goals.
+1. **Produce Reusable Data / Software**: In our group, we believe strongly that
+   research is more than just papers. You are expected to share the outputs of
+   your research (data and software) in a way that makes them reusable by the
+   rest of the group and the rest of the field.
+1. **Ask Questions!** If something is unclear to you--either a science question or
+   a procedural / administrative issue--it is _your responsability_ to speak up.
+1. **Communicate with the Group** and attend group meetings. (See Communication section below.)
+
+
+### General Notes on "Being Present"
+
+One of the great advantages of working in academia is the flexible schedule.
+But this flexibility can also be a curse. There is a reason why business require
+their employees to show up every day at nine: this is how work gets done.
+Our situation is additionally complicated by the fact that we split time between
+the Lamont Campus and the Morningside Campus. Here are some general guidelines to
+help define what it means to be "at work":
+
+- Aim for a 40 hour work-week _on average_. Academic work often occurs in bursts.
+  Sometimes you are happy and excited to work an 80 hour week as you are on the
+  cusp of a major breakthrough. You can balance these periods of intensity with
+  slower-paced weeks at another time.
+- Generally plan to be at Lamont for most of the day on Monday, Wednesday and Friday.
+  These are when seminars and group meetings tend to be held. Being present in
+  the office is important for building relationships with you colleagues and
+  for the spontaneous generation of new ideas.
+- Be available on communication channels all business days (Monday - Friday)
+  during business hours (9am - 5pm).
+- Feel free to work remotely occasionally as it suits your personal and professional
+  life. For example, if your family lives abroad, you may wish to spend a week or
+  two working from their country. _This should be the exception, not the rule._
+- Be clear about when you are really on vacation, as opposed to working remotely.
+  (See section on self-care.)
+
+
+## Communication
+
+Our group uses several channels of communication. You are expected to participate
+in all of them.
+
+1. **Email** is an unavoidable part of the modern world. All important official
+   correspondence will happen through email. Check it regularly.
+2. **Slack** is our preferred mode of communication within the group. It's a
+   way to discuss things more interactively and informally than email.
+3. **Github** is where we store and discuss all things software-related.
