@@ -158,7 +158,7 @@ it all is part of the journey of graduate school.
 1. **Communicate with the Group** and attend group meetings. (See Communication section below.)
 
 
-### General Notes on "Being Present"
+### Vacation and Expectations for "Being Present"
 
 One of the great advantages of working in academia is the flexible schedule.
 But this flexibility can also be a curse. There is a reason why business require
@@ -182,6 +182,12 @@ help define what it means to be "at work":
   two working from their country. _This should be the exception, not the rule._
 - Be clear about when you are really on vacation, as opposed to working remotely.
   (See section on self-care.)
+- Students and postdocs should take **4 weeks of vacation per year**. The official
+  university GSAS policy stipulates 10 days for grad students, but this is likely
+  not enough.
+- Travel dates for vacation and non-vacation remote work must be approved by
+  Prof. Abernathey. These requests should be made via email at least one month
+  before any planned travel.
 
 
 ## Communication
@@ -195,8 +201,49 @@ in all of them.
    correspondence will happen through email. Check it regularly.
 2. **Slack** is our preferred mode of communication within the group. It's a
    way to discuss things more interactively and informally than email.
-3. **Github** is where we store and discuss all things software-related.
+3. **Github** is where we store and discuss all things software-related. Everyone
+   should have a github account.
 
 ### Group Meeting
 
-...
+Group meetings are currently held every other Monday at 11:30 AM at Lamont.
+This time may change from semester to semester to accommodate the changing
+schedules of group memebers.
+Everyone should attend group meeting as much as possible. If you have a conflict
+which prevents you from attending, let Prof. Abernathey know ahead of time.
+
+## Self Care
+
+Your physical and mental health are crucial to your well being as a person.
+These should always take priority over your studies and work. Conversely, a
+satisfying and respectful work environment is an important factor in your
+mental health.
+Science can be an emotional roller coaster. Exams, paper reviews,
+fellowship applications, and job searches all involve being judged, which
+often causes anxiety.
+There is growing awareness in academia that graduate students
+are at [high risk for depression and anxiety](https://www.insidehighered.com/news/2018/03/06/new-study-says-graduate-students-mental-health-crisis).
+If you feel you are facing mental health challenges, don't be ashamed--you're not alone!
+
+With this in mind, our group strives to do everything possible to support
+students and ensure a healthy work-life balance.
+The vacation and workload expectations defined above are a big part of this.
+Don't overwork! Some other tips, based on experience, are the following:
+
+- Maintain a healthy sleep schedule.
+- Pursue interests and hobbies outside of your work. These help releive stress.
+  They also benefit your research! Stepping away from your problem and letting
+  your mind wander elsewhere is, counterintuitively, a great way to stimulate
+  creative thought.
+- Develop a support network among your peers. They understand the struggle!
+
+If you feel like you need help, don't hesitate to contact
+[Columbia Counseling and Psychological Services](https://health.columbia.edu/content/counseling-and-psychological-services)
+
+
+
+
+
+
+
+
