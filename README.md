@@ -33,6 +33,12 @@ Sexual language and imagery is not appropriate in any professional context, incl
 conferences, online communications, and work-related social events. Anyone violating these rules may be temporarily suspended
 or permanently expelled from the group, at the discretion of the group leader Ryan Abernathey.
 
+Respect for others goes beyond simply "don't harass."
+Respect requires creating an environment where people of all backgrounds and personalities feel comfortable and welcome in scientific discussions.
+This means being conscious of how we talk to each other and leaving space in conversations for everyone's voice.
+Interrupting, talking over others, and agressively dominating a conversation are unacceptable behaviors.
+For the men in the group, this generally means listening more, talking less, and hesitating before we interject with our opinion.
+
 ## Work Hard: Roles and Expectations
 
 Working hard means applying consistent, focused effort to your research in a serious, professional way.
